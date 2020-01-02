@@ -6,7 +6,7 @@ Azure Python SDK documentation : https://aka.ms/azure-python-sdk
 import os
 import sys 
 
-SUBSCRİPTION_ID = str(sys.argv[1])
+SUBSCRIPTION_ID = str(sys.argv[1])
 CLIENT = str(sys.argv[2])
 KEY = str(sys.argv[3])
 TENANT_ID = str(sys.argv[4])
